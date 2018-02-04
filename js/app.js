@@ -81,4 +81,4 @@ function getBaiduDogs()
 console.log("start get dogs....\n")
 setInterval(function(){
     getBaiduDogs();
-}, 1000);
+}, 10000);
